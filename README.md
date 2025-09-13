@@ -1,1 +1,1 @@
-# Zootlocker.github.io
+<a href="/barovia/1barovia.html">Map of Barovia</a>
